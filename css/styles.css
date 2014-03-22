@@ -74,4 +74,16 @@ ul.right a{ color: #FFF !important; }
 	background-color: #C0C0C0;	
 }
 
+@media screen and (max-width: 767px) {
+   .carousel{
+   	display:none;
+   }
+}
+
+@media screen and (max-width: 870px) {
+   .navbar-brand{
+   	display:none;
+   }
+}
+
 
